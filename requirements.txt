@@ -1,0 +1,6 @@
+numpy
+python-binance
+tulipy 
+backtesting
+requests
+aiohttp
